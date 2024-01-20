@@ -1,1 +1,1 @@
-This repository generates the README for [this GitHub organization](https://github.com/PrivacyConfidentialityIG).
+This repository generates the README for [the ASA's P&C Interest Group GitHub organization](https://github.com/PrivacyConfidentialityIG).
